@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pilz]]></title>
+        <description><![CDATA[pilz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 23:58:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Musings of a Python-Phile]]></title>
+            <description><![CDATA[<article><h1>Musings of a Python-Phile</h1><p>Tonight I am trying the impossible again. Buried in unhandled papers and invoices, with an urge to complete the tax declaration, I try to fix yet another last minute request that makes me delve into the depth of library code. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37bb3f9160dfa83e2cfc61884baf25e0cc3ff2af.jpg"></article>]]></description>
+            <link>undefinedmusings-of-a-python-phile/index.html</link>
+            <guid isPermaLink="false">45a9d099-62bb-4727-bce4-25e2b8c9fdbf</guid>
+            <pubDate>Thu, 18 Feb 2016 23:58:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
